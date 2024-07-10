@@ -8,8 +8,13 @@ This ensures that users do not miss their medication and do not have to refer to
 COMPONENTS:
 
 Buttons: Used to set the reminder frequency (once, twice, thrice a day).
+
 Real-Time Clock (RTC): Tracks the current time to trigger reminders accurately.
+
 Buzzer: Sounds an alert when it is time to take the medicine.
+
 LED: Lights up to indicate an active reminder.
+
 LCD Screen: Displays the name of the medicine.
+
 Microcontroller: The central unit that manages the time tracking, user input, and triggering the alerts.
